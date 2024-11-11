@@ -21,6 +21,8 @@ string formatNumber(const string& input) {
     return result;
 }
 
+
+//Коментар для виконання ЛР #10
 int main() {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
